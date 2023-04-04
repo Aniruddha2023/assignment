@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.my-color{
+    background-color: rgb(7, 28, 41);
+}
+.nab{
+    padding-left: 1rem;
+}
+h1{
+    text-align: center;
+    background-color: rgba(236, 228, 218, 0.575);
+    padding-top: 30px;
+    margin: 5px;
+}
+.my-slide{
+    
+}
+.pull{
+    padding: 5%;
+}
+h5{
+ font-size: 60px;
+}
